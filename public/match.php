@@ -18,14 +18,6 @@ switch ($number){
 }
 echo $result;
 
-//php8から導入された書き方
-// $result = match ($number) {
-//     0 => 'りんご',
-//     1 => 'バナナ',
-//     2 => 'みかん',
-// };
-// echo $result;
-
 $result = match ($number) {
     0 => 'りんご',
     1 => 'バナナ',
@@ -33,3 +25,8 @@ $result = match ($number) {
     2 => 'みかん',
 };
 echo $result;
+
+
+echo "<br>";
+echo "<br>";
+echo "<a href='https://github.com/manafukurou/php8-apache-docker/blob/master/public/match.php'>コード確認</a>";

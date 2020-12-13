@@ -14,3 +14,8 @@ class TestCalculation
     }
 
 }
+
+
+echo "<br>";
+echo "<br>";
+echo "<a href='https://github.com/manafukurou/php8-apache-docker/blob/master/public/TestCalculation.php'>コード確認</a>";

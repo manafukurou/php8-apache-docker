@@ -37,3 +37,7 @@ class TestMixed2
     }
 
 }
+
+echo "<br>";
+echo "<br>";
+echo "<a href='https://github.com/manafukurou/php8-apache-docker/blob/master/public/mixed.php'>コード確認</a>";
